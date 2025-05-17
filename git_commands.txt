@@ -1,0 +1,24 @@
+git status
+git commit -m "added git commands"
+git add git_commands.txt
+git restore testing.py
+ls
+rm testing.py
+git commit -m "added testing files"
+git add .
+git rm --cached testing.py
+git rm --cached
+git add testing.py
+dir
+ls -a
+git init
+ls -l
+python3 testing.py
+/home/subhradeep/github-for-devops-workshop/
+exit
+close
+git push /home/subhradeep/git-demo/example.txt
+git push example.txt
+git commit index.html
+git add index.html
+git commit -a
