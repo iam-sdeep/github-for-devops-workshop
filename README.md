@@ -1,6 +1,6 @@
 # GitHub for DevOps Workshop  
 
-🚀 Learn DevOps with GitHub—CI/CD, Infrastructure as Code, and automation using GitHub Actions.  
+🚀 Learn DevOps with GitHub  
 
 📋 **Prerequisites**: GitHub account, basic Git, and DevOps familiarity.  
 
