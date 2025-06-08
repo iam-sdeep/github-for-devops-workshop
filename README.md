@@ -1,6 +1,6 @@
 # GitHub for DevOps Workshop  
 
-🚀 Learn DevOps with GitHub 
+🚀 Learn DevOps with GitHub 🚀
 
 📋 **Prerequisites**: GitHub account, basic Git, and DevOps familiarity.  
 
